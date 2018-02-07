@@ -1,3 +1,5 @@
+// TORQ Coin
+// https://www.torqcoin.io
 pragma solidity 0.4.18;
 
 contract Ownable {
